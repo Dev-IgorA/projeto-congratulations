@@ -1,0 +1,118 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    margin: 44px 40px 70px 76px;
+}
+
+
+.link-header {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.88px;
+    text-align: center;
+    color: #17233D;
+    margin-right: 15px;
+    line-height: 21px;
+    cursor: pointer;
+}
+
+.bt-header {
+    width: 124px;
+    height: 51px;
+    border-radius: 6px;
+    border: 1px;
+    background: #6FBF44;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: white;
+    cursor: pointer;
+}
+
+.logo-image {
+    width: 595.18px;
+    height: 500px;
+    margin-left: 121px;
+    display: inline-block;
+}
+
+div {
+    display: inline-block;
+    width: 493px;
+    margin-left: 20px;
+}
+
+h1 {
+    height: 164px;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.6px;
+    color: #161A49;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+    height: 99px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+
+.link-div {
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 27px;
+    color: #6FBF44;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.link-div:hover {
+    opacity: 0.8;
+}
+
+.link-div:active {
+    opacity: 0.5;
+}
+
+@media screen and (max-width: 800px) {
+ 
+    
+    h1 {
+      font-size: 30px;
+      line-height: 30px;
+      width: 278px;
+      text-align: center;
+      margin-left: 100px;
+    }
+
+    p {
+       text-align: center;
+    }
+
+    .link-div {
+        margin-left: 180px;
+        margin-top: 20px;
+    }
+    
+    .logo-image {
+        width: 280px;
+        height: 267px;
+        max-width: 90%;
+        position: fixed;
+        margin-top: 500px;
+    }
+
+
+
+}
