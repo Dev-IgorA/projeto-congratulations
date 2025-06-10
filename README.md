@@ -19,7 +19,7 @@ Este projeto foi desenvolvido como prática para consolidar conhecimentos em HTM
 
 Você pode visualizar o projeto online por meio deste link:
 
-[🔗 Acesse o site aqui](https://seulink.com)  
+[🔗 Acesse o site aqui](https://dev-igora.github.io/projeto-congratulations/)  
 
 
 ## 📁 Tecnologias Utilizadas
