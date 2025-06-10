@@ -28,5 +28,5 @@ Você pode visualizar o projeto online por meio deste link:
 - CSS3
 
 ## 📸 Capturas de Tela
-<img src="
+<img src="https://github.com/Dev-IgorA/projeto-congratulations/blob/master/Assets/Print%20tela.jpg">
 
